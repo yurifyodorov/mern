@@ -1,4 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://yurifedorov:mern2020@devconnector-omtwd.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken"
+  "mongoURI": "mongodb+srv://yurifedorov:mern2020@devconnector-omtwd.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
