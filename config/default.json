@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://yurifedorov:mern2020@devconnector-omtwd.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "8ef6242d309f09d14180",
+  "githubSecret": "54ce74fbefa5e86d6183d56f3ce9672be0161a61"
 }
