@@ -3,21 +3,21 @@ import { Link } from 'react-router-dom';
 
 const Navbar = () => {
   return (
-    <nav className="navbar bg-dark">
+    <nav className='navbar bg-dark'>
       <h1>
-        <Link to="/">
-          <i className="fas fa-code"></i> DevConnector
+        <Link to='/'>
+          <i className='fas fa-code'></i> DevConnector
         </Link>
       </h1>
       <ul>
         <li>
-          <a to="!#">Developers</a>
+          <a to='!#'>Developers</a>
         </li>
         <li>
-          <Link to="/register">Register</Link>
+          <Link to='/register'>Register</Link>
         </li>
         <li>
-          <Link to="/login">Login</Link>
+          <Link to='/login'>Login</Link>
         </li>
       </ul>
     </nav>
