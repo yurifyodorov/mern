@@ -12,11 +12,8 @@ export const Landing = ({ isAuthenticated }) => {
     <section className='landing'>
       <div className='dark-overlay'>
         <div className='landing-inner'>
-          <h1 className='x-large'>Developer Connector</h1>
-          <p className='lead'>
-            Create a developer profile/portfolio, share posts and get help from
-            other developers
-          </p>
+          <h1 className='x-large'>React App</h1>
+          <p className='lead'>MongoDB, Express, React, Node.js</p>
           <div class='buttons'>
             <Link to='/register' className='btn btn-primary'>
               Sign Up

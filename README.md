@@ -1,3 +1,3 @@
 # devconnector
 
-MERN project
+MERN project (start template)

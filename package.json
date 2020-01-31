@@ -1,5 +1,5 @@
 {
-  "name": "devconnector",
+  "name": "mern",
   "version": "1.0.0",
   "description": "Social network for developers",
   "main": "server.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yurifyodorov/devconnector.git"
+    "url": "git+https://github.com/yurifyodorov/mern.git"
   },
   "author": "Yuri Fedorov",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yurifyodorov/devconnector/issues"
+    "url": "https://github.com/yurifyodorov/mern/issues"
   },
-  "homepage": "https://github.com/yurifyodorov/devconnector#readme",
+  "homepage": "https://github.com/yurifyodorov/mern#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "config": "^3.2.5",
