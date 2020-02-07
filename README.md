@@ -1,3 +1,3 @@
 # React App (MERN)
 
-MERN project (start template)
+Приложение с использованием MongoDB, Express, React и Node.js
